@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">商城</string>
+    <string name="books_name">这是记账本</string>
+    <string name="login_name">登入</string>
+    <string name="user">用户名</string>
+    <string name="password">密码</string>
+    <string name="wanji">忘记密码_或者用户名？</string>
+    <string name="qingshuru">请输入你的用户名:</string>
+    <string name="qingshuru_pass">请输入你的密码</string>
+    <string name="qingzaici_poss">请再次确定你的密码:</string>
+    <string name="qingshuruyoux">请输入你的邮箱地址:</string>
+    <string name="请输入验证码">请输入你的验证码：</string>
+    <string name="denru">登入</string>
+    <string name="quxiao">取消</string>
+    <string name="shoping">商城</string>
+    <string name="shopmall">商城</string>
+</resources>
